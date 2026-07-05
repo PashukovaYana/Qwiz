@@ -1,0 +1,19 @@
+# зависимости
+/node_modules
+
+# сборка Next.js
+/.next
+/out
+
+# база данных (не храним в репозитории)
+/data/*.db
+/data/*.db-journal
+
+# логи и системные файлы
+*.log
+.DS_Store
+Thumbs.db
+
+# переменные окружения
+.env
+.env.local
