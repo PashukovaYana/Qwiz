@@ -1,3 +1,13 @@
+---
+title: Qwiz
+emoji: 🎯
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Quiz Arena — квиз-платформа реального времени
 
 Веб-приложение для проведения квизов в реальном времени (аналог Kahoot).
